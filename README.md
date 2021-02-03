@@ -4,7 +4,7 @@ This repository contains the solution to the homework of Deep Learning course in
 
 ## Notebook Contents
 
-See notebook [here](https://github.com/fangzhouli/ECS289G-DeepLearning-HW/blob/main/ecs289-dl/programming.ipynb)
+See notebook [here](https://github.com/fangzhouli/ECS289G-DeepLearning-HW/blob/main/ecs289-dl/programming.ipynb).
 
 - Implmentation and Analysis of Optimization Algorithms
   1. Stochastic Gradient Descent
